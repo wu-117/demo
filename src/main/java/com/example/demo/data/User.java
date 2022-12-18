@@ -12,4 +12,6 @@ public class User {
     private String v1;
 
     private String v2;
+
+    private String tel;
 }
