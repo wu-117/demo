@@ -14,4 +14,6 @@ public class User {
     private String v2;
 
     private String tel;
+    
+    private String book;
 }
