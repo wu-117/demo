@@ -10,4 +10,6 @@ public class User {
     private String address;
 
     private String v1;
+
+    private String v2;
 }
